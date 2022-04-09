@@ -1,4 +1,4 @@
-# ATIVIDADE2 - Calculadora.
+# ATIVIDADE 2 - Calculadora.
 
 Study Time - O projeto Calculadora foi desenvolvido no ambiente virtual da faculdade como uma atividade.
 
